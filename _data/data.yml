@@ -29,11 +29,10 @@ education:
     university: University of Patras
 
 skills:
-  - category: Software
+  - category: Backend
     skill: 
-      - C
-      - Java
-      - Python
+      - Go
+      - Rust
   - category: Frontend
     skill:
       - JavaScript
