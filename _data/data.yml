@@ -72,9 +72,10 @@ publications:
     conference: Some conference again, 2018
 projects:
   - title: EDUPro – University Assistance System 
+    link: #
     details: |
-      
-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
   - title: Cool Project 
     link: #
     details: |
