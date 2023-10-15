@@ -31,7 +31,7 @@ education:
 skills:
   - category: Software
     skill: 
-      - Go
+      - C
       - Rust
   - category: Frontend
     skill:
