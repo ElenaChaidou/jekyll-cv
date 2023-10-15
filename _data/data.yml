@@ -29,14 +29,15 @@ education:
     university: University of Patras
 
 skills:
-  - category: Backend
+  - category: Software 
     skill: 
       - Java
       - Python
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - JavaScript
+      - HTML, CSS
+      - PHP
   - category: DevOps
     skill:
       - Docker
