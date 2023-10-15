@@ -83,11 +83,11 @@ projects:
      Lexical and Syntax Analyzer – C(Flex, Bison) 
      - 2 contributors 
 
-  - title: Cool Project 
-    link: #
+  - title: Newspaper 
+    
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Database – MySQL  
+      - 2 contributors 
 
   - title: Cool Project 
     link: #
