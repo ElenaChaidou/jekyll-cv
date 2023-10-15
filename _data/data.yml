@@ -4,7 +4,7 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
+  email: helenchaidou1@gmail.com
   github: ElenaChaidou
   linkedin: https://www.linkedin.com/in/elena-chaidou-62a684234/
   phone: 6948295339
@@ -12,9 +12,12 @@ contact:
   #twitter: 
 
 languages:
+  - idiom: Greek
+    level: Native
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+    level: Professional
+  - idiom: German
+    level: Professional
 
 education:
   - degree: MSc in Informatics
