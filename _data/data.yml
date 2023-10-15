@@ -72,12 +72,12 @@ publications:
     conference: Some conference again, 2018
 projects:
   - title: EDUPro – University Assistance System 
-    link: #
+    
     details: |
       Java, JavaFX, MySQL  
-      5 contributors 
+      -5 contributors 
 
-  - title: Cool Project 
+  - title: Build a C – like language 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
