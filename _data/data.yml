@@ -29,7 +29,7 @@ education:
     university: University of Patras
 
 skills:
-  - category: Backend
+  - category: Software
     skill: 
       - Go
       - Rust
