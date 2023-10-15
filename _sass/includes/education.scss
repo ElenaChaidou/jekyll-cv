@@ -8,7 +8,6 @@
         .degree {
             @include body-text;
             font-weight: bold;
-            font-size: 14px;
         }
         .university {
             @include body-text;
