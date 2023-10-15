@@ -75,13 +75,13 @@ projects:
     
     details: |
       Java, JavaFX, MySQL  
-      -5 contributors 
+      - 5 contributors 
 
   - title: Build a C – like language 
-    link: #
+    
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+     Lexical and Syntax Analyzer – C(Flex, Bison) 
+     - 2 contributors 
 
 # Volunteering
 volunteering:
