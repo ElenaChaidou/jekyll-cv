@@ -33,6 +33,7 @@ skills:
     skill: 
       - Java
       - Python
+      - C
   - category: Frontend
     skill:
       - JavaScript
