@@ -20,27 +20,21 @@ languages:
     level: Professional
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Integrated Master in Computer Engineering and Informatics Department
+    time: 2017 - 2023
+    university: University of Patras
+    
+  - degree: Master in Human-Computer Interaction
+    time: 2023 - present
+    university: University of Patras
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - JavaScript
+      - HTML,CSS
+      - PHP
+  
 
 # Profile
 profile: |
