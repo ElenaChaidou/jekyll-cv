@@ -71,8 +71,8 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 projects:
-  - title: Cool Project 
-    link: #
+  - title: EDUPro – University Assistance System 
+
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
