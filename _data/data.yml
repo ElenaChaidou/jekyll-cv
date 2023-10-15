@@ -5,11 +5,11 @@ fork: true
 # Sidebar
 contact:
   email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  github: ElenaChaidou
+  linkedin: https://www.linkedin.com/in/elena-chaidou-62a684234/
+  phone: 6948295339
+  #gitlab: 
+  #twitter: 
 
 languages:
   - idiom: English
