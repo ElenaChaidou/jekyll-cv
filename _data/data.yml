@@ -89,11 +89,11 @@ projects:
       Database – MySQL  
       - 2 contributors 
 
-  - title: Cool Project 
-    link: #
+  - title: Comparison of Interval and Segment Tree  
+    
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Multidimensional Data Structures – Python   
+      - 2 contributors 
 
 # Volunteering
 volunteering:
