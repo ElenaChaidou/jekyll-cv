@@ -31,8 +31,8 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - C
+      - Java
   - category: Frontend
     skill:
       - JavaScript
