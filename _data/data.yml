@@ -32,7 +32,7 @@ skills:
   - category: Software
     skill: 
       - C
-      - Rust
+      - Java
   - category: Frontend
     skill:
       - JavaScript
